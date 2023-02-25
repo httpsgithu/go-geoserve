@@ -9,5 +9,5 @@ require (
 	github.com/mholt/archiver/v3 v3.3.0
 	github.com/oschwald/geoip2-golang v1.4.0
 	github.com/pierrec/lz4 v2.4.0+incompatible // indirect
-	golang.org/x/sys v0.0.0-20191228213918-04cbcbbfeed8 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
